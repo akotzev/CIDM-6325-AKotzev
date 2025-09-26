@@ -1,0 +1,15 @@
+beautifulsoup4
+DateTime
+Django
+matplotlib
+moviepy
+numpy
+pandas
+pathlib
+pip-review
+pylint
+pyperclip
+pytest
+scikit-stats
+scipy
+seaborn
